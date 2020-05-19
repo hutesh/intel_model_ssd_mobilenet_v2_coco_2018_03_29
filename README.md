@@ -1,0 +1,1 @@
+# intel_model_ssd_mobilenet_v2_coco_2018_03_29
